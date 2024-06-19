@@ -12,7 +12,7 @@ This Streamlit application provides functionalities for text summarization, tran
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/your_project_name.git
+    git clone https://github.com/Gowthamchandu307/Text-Summarizer.git
     cd your_project_name
     ```
 
