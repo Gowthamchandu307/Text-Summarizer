@@ -1,0 +1,9 @@
+streamlit
+txtai
+PyPDF2
+deep-translator
+langdetect
+nlpaug
+Pillow
+pytesseract
+python-docx
